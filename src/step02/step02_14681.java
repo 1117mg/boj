@@ -1,37 +1,61 @@
 package step02;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.util.Scanner;
 
 public class step02_14681 {
 
-	public static void main(String[] args) throws IOException {
-		
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		
-		int X = Integer.parseInt(br.readLine());
-		int Y = Integer.parseInt(br.readLine());
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
 
-		if(X>0) {
-			if(Y>0) {
-				System.out.println(1);
+		int a, b, c;
+		a = in.nextInt();
+		b = in.nextInt();
+		c = in.nextInt();
+
+		// 만약 모든 변수가 다른 경우
+		if (a != b && b != c && a != c) {
+			int max;
+			// 만약 a > b 라면
+			if (a > b) {
+				// c > a > b 라면
+				if (c > a) {
+					max = c;
+				}
+				// a > (b, c)
+				else {
+					max = a;
+				}
 			}
+			// b > a 라면
 			else {
-				System.out.println(4);
+				// c > b > a 라면
+				if (c > b) {
+					max = c;
+				}
+				// b > (a, c)
+				else {
+					max = b;
+				}
 			}
+			System.out.println(max * 100);
 		}
-		
+		// 적어도 한 쌍 이상의 서로 같은 변수가 존재할 경우
 		else {
-			if(Y>0) {
-				System.out.println(2);
+			// 3개의 변수가 모두 같은 경우
+			if (a == b && a == c) {
+				System.out.println(10000 + a * 1000);
 			}
 			else {
-				System.out.println(3);
+				// a가 b혹은 c랑만 같은 경우
+				if(a == b || a == c) {
+					System.out.println(1000 + a * 100);
+				}
+				// b가 c랑 같은 경우
+				else {
+					System.out.println(1000 + b * 100);
+				}
 			}
 		}
-		
-		
 	}
 
 }
