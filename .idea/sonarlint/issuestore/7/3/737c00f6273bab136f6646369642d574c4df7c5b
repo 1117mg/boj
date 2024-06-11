@@ -1,0 +1,6 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÈŠó8¤ÂÞ±€2J$f2b38814-f979-4e67-b31e-d1c2179cc84c
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šŠÎþøÿÿÿÿ8¤ÂÞ±€2J$2ebd23ec-070d-412a-81cf-d30e95c1e191
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(É°ë±þÿÿÿÿ8¥ÂÞ±€2J$570c2354-7f77-4da5-9a9b-af49029fc726
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡È³‰øÿÿÿÿ8¦ÂÞ±€2J$2ad4d16e-e577-49e0-aada-cd8442a5180f
+r	java:S106"+Replace this use of System.out by a logger.(øóÓ÷üÿÿÿÿ8®ÂÞ±€2J$3598b50b-f032-40ba-bde9-1427e2f08440
