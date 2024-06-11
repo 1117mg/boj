@@ -1,0 +1,12 @@
+
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Âğ°ÏJ$df6da943-30e9-415e-afbc-f723a3092764
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰İßƒJ$b13d8dd8-8816-44a1-bbdb-a7e140507bbb
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘8¤ÿÃ„ÿ1J$b3f52bd0-2ded-4dfa-abca-354a1838e4e4
+†
+java:S1659
+">Declare "b" and all following declarations on a separate line.(ë³ ¹øÿÿÿÿ8¨ÿÃ„ÿ1J$1c7e35c3-56ae-4d9b-98e5-469e68b5d292
+r	java:S106("+Replace this use of System.out by a logger.(ö¿Ïıÿÿÿÿ8®ÿÃ„ÿ1J$d072f544-ecfc-4d89-99d9-2f79756d0a0d
+m	java:S106."+Replace this use of System.out by a logger.(™Š’½8®ÿÃ„ÿ1J$10e0260f-f2b6-4190-9913-6f78e74b1712
+m	java:S1063"+Replace this use of System.out by a logger.(üæÿ8¯ÿÃ„ÿ1J$6f69bc26-4f65-4578-aef7-d9e10421c62e
+r	java:S1067"+Replace this use of System.out by a logger.(ĞÙüüüÿÿÿÿ8¯ÿÃ„ÿ1J$71bd561c-4651-4ea7-8e8f-a72c0f949b09

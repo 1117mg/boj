@@ -1,0 +1,8 @@
+
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï£ûûùÿÿÿÿJ$faf4ea4f-54d7-431d-9272-673b5e6496e7
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á½Ú²J$269e7640-5529-422b-a146-40eafd17a0dd
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œÜ©²J$34f613ca-e6b4-475c-8f30-c6d649b0c0db
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰ÝßƒJ$b7441c29-3f74-4867-995d-973f391e7190
+f	java:S106"+Replace this use of System.out by a logger.(áéÂ J$5728df77-1168-45e8-bb08-955788237ec8
+€
+java:S3358"DExtract this nested ternary operation into an independent statement.(áéÂ J$d196db24-7140-4dbc-a878-f084a74fd5df
