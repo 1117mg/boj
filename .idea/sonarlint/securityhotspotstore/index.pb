@@ -401,3 +401,11 @@ K
 src/step06/step06_1316.java,c\c\cc7bbeddb8203fe2928d2b0742ca8e7a279a4af3
 L
 src/step06/step06_25206.java,9\a\9a9b4222bb7ac78deeb8232338a4c86083c45b19
+K
+src/step07/step07_2738.java,f\c\fc89c83769f93a13fe3722773a43d5629ebb962b
+K
+src/step07/step07_2566.java,7\f\7f941346e56c697a331cc6efb7addafee5ace741
+L
+src/step07/step07_10798.java,7\2\720dffed5d8d420487e4535dafad142f143d6162
+K
+src/step07/step07_2563.java,7\a\7a3dbde75a06affac98f1c8b12067cfe34350af3
