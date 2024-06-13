@@ -409,3 +409,17 @@ L
 src/step07/step07_10798.java,7\2\720dffed5d8d420487e4535dafad142f143d6162
 K
 src/step07/step07_2563.java,7\a\7a3dbde75a06affac98f1c8b12067cfe34350af3
+K
+src/step08/step08_2745.java,5\0\50a2e49155c061caccb6270b2101cbce982a3832
+L
+src/step08/step08_11005.java,8\0\80ddd27ff5d85f728b1b33138d1c9b35a8e1bd06
+K
+src/step08/step08_2720.java,c\a\ca25e86a346d9c7f128788ed01f8483d10b34baa
+K
+src/step08/step08_2903.java,d\d\dd94ba9390a0a7d290ff9973fa7451e07e8deffe
+K
+src/step08/step08_2292.java,f\6\f6acb719354c3e8d297c572d2f8b48714a0c7b96
+K
+src/step08/step08_1193.java,4\b\4bb910e863c2e863ddd78ab67f9ac08d8237c1e5
+K
+src/step08/step08_2869.java,b\7\b7c181ce411deffaa5472387f5ba2e3b8fd3e1de
