@@ -423,3 +423,15 @@ K
 src/step08/step08_1193.java,4\b\4bb910e863c2e863ddd78ab67f9ac08d8237c1e5
 K
 src/step08/step08_2869.java,b\7\b7c181ce411deffaa5472387f5ba2e3b8fd3e1de
+K
+src/step09/step09_5086.java,f\9\f95ae4de4050abd9204024d12509bc1e003aa321
+K
+src/step09/step09_2501.java,d\a\daef58103d4bc87d3446d1df0270b3adbe50a463
+K
+src/step09/step09_9506.java,d\2\d2e05fb907f25b9e001b1bb12a190dd31f47e3ed
+K
+src/step09/step09_1978.java,2\4\24c2d00d1ecad505f3c832e5be710f6a679a1d30
+K
+src/step09/step09_2581.java,c\a\ca9f9f2cf2392b7297b24c7e41017cf5f691a0d3
+L
+src/step09/step09_11653.java,5\5\55f64f88b0396e3df66e4b464759dff11726c1b7
