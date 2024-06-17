@@ -1,0 +1,19 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ïšÄ8Ñ­ù¤2J$731ec872-f4ca-4c4a-91fe-11c1a831dbc8
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8Ñ­ù¤2J$cb1c8d84-1efe-40b6-802a-dd762cc608ae
+”
+java:S1104	"QMake prime a static final constant or non-public and provide accessors if needed.(©òƒ8Ô›Û¤2J$d88908b4-9cfb-41e5-aaad-e56855f8cd37
+n
+java:S1444	"+Make this "public static prime" field final(©òƒ8Õ›Û¤2J$b0a38c90-0dd8-4b48-b4dd-bc1c6fb384c1
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Š¥©*8Õ›Û¤2J$d89ead9a-4ba7-4984-9cf8-f41173c74e2d
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş°Ûúÿÿÿÿ8Ö›Û¤2J$64bb3eb3-bd27-4670-bd5d-ae2d90d862e6
+m
+java:S1197	"*Move the array designators [] to the type.(©òƒ8Ü›Û¤2J$36a7d7c7-01d7-4b36-8843-b6ebc99939b1
+h
+java:S2386" Make member "prime" "protected".(İóá•øÿÿÿÿ8ç›Û¤2J$6c832ee4-0c22-4a31-bb32-105bade5e2ef
+o
+java:S1125"'Remove the unnecessary boolean literal.(Ëıæƒüÿÿÿÿ8ä—å¤2J$4c3eed33-adbc-48b1-9893-5137b9ef4d9c
+r	java:S106!"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8°¥ç¤2J$c57648e9-a9e9-49e6-becc-d35f5ddf208d
+m	java:S106$"+Replace this use of System.out by a logger.(‚¨Ö§8°¥ç¤2J$85f799c5-294b-402d-aca6-42b7e898068d
+m	java:S106%"+Replace this use of System.out by a logger.(Å¶áç8°¥ç¤2J$44a69012-7b28-40f5-b83c-dc5265369c3c
+	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Û8ÜÓŞ¤2J$be5c8845-a483-451e-94ed-2445f51b2905

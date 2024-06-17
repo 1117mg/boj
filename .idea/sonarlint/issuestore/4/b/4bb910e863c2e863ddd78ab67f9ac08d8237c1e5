@@ -1,0 +1,11 @@
+
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8ã½ºý€2J$7927711b-d77d-4d37-8d45-5ef00be6234c
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÂôß8ã½ºý€2J$94301308-d233-4b67-9cd5-944114b9bb08
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ƒç¬8ã½ºý€2J$1740c779-9a07-45ac-a96f-45ddb94bc6d7
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ƒç¬8ã½ºý€2J$11283d41-5821-4554-9b3f-022bf4e618df
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÐäÆÛýÿÿÿÿ8¡Û·ý€2J$c71fa891-3e10-4cde-b66c-46317a869139
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î®¹§ýÿÿÿÿ8¢Û·ý€2J$9f65ca87-f156-4cd4-b43d-c927d01e2e28
+o
+java:S1659",Declare "prev_count_sum" on a separate line.(—ƒç¬8í½ºý€2J$6c4f9a96-05aa-490c-84f3-23857096170d
+l	java:S106"+Replace this use of System.out by a logger.(Ž®Èw8ð½ºý€2J$aaecee13-faf9-474a-9dd4-01c16ab89784
+l	java:S106"+Replace this use of System.out by a logger.(ýÄþ{8ð½ºý€2J$4ab5f142-1054-440e-9efe-b5cc19be2b6f

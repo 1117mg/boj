@@ -1,0 +1,15 @@
+
+š	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ÅúÃÔ€2J$87165594-0e07-492f-90e0-fe1153fcc388
+š	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ÅúÃÔ€2J$c5d9fab7-ee7b-416e-a99b-07277a3ae55a
+Ÿ	java:S127$"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ıÿÿÿÿ8ÅúÃÔ€2J$e6d76776-dfd5-4ac5-9993-b9eac5882f8b
+š	java:S127+"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ÅúÃÔ€2J$d985b592-e5f1-409b-9be6-83e683b80c45
+š	java:S1272"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ÅúÃÔ€2J$45f2101a-87ea-47a8-b39d-16c17361f622
+r
+java:S1066#"/Merge this if statement with the enclosing one.(ÜØ¤¯8ÆúÃÔ€2J$7cc31975-8977-4503-991e-dc6195256ac0
+r
+java:S10661"/Merge this if statement with the enclosing one.(…÷¥ª8ÆúÃÔ€2J$da2105fb-7472-41c0-8b5c-9163013e293b
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÆîşØ8èì¾Ô€2J$3592c200-a030-4602-8375-6ff9c52db715
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êåûßşÿÿÿÿ8éì¾Ô€2J$6ce24633-22fc-423e-9a31-b7d18adf9fda
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(œû¿Ø8êí¾Ô€2J$d62f8198-dd6f-4ae9-a933-9f2934f57697
+r	java:S106;"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8ÒûÃÔ€2J$bb8b7c86-5d62-4c06-b978-8bf6d58fe956
