@@ -9,3 +9,7 @@ K
 src/step10/step10_1085.java,7\3\73b92e5b1e7588d375d2b34f95129272f1d5bb48
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+K
+src/step10/step10_3009.java,e\0\e017645eb4ca25e78cb7ed41a5fd2599e67f97c9
+L
+src/step10/step10_15894.java,b\d\bd0556ca72e9e6ba1cab66709ab4ea97e18e60df
