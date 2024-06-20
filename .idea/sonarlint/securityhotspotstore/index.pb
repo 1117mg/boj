@@ -485,3 +485,29 @@ L
 src/step11/step11_24266.java,6\4\64bba25a2edf36013d879d2e3dbbb6033000842f
 L
 src/step11/step11_24264.java,8\6\86883d7f22f2705d0c6d3284680efdd21d398be6
+K
+src/step12/step12_2798.java,0\0\00c41ff98aed2e613b68884b280f462510f308cb
+K
+src/step12/step12_2231.java,9\4\94fd47330e4b2527a08acd77a32691a8a282e5bb
+K
+src/step12/step12_1436.java,a\d\ad89fbb3376f09bb44ac16325701ca77f961f2ee
+K
+src/step12/step12_1018.java,1\1\118d69605df4c795cd60cccf1c14850b7ffd15bc
+L
+src/step12/step12_19532.java,9\b\9b3b7f3c2f1be7949e5b09137158b092e5d8abba
+K
+src/step12/step12_2839.java,8\9\89dcbf3e55f15124003627c8ba2057509f510b88
+K
+src/step13/step13_2750.java,f\d\fd7efe43cbb51ccbe9b7d87243a1ba7d4efe6aa5
+L
+src/step13/step13_10989.java,7\5\750d64082d5962d5c7ea4fe313d24ae9ac0b9f5f
+K
+src/step13/step13_2751.java,1\3\1316f883e01b2b7fb67b1c068becd03874c88fdb
+L
+src/step13/step13_25305.java,3\b\3b16a8d9197f32ce758a2873c57b93f3ad702f35
+K
+src/step13/step13_2587.java,7\f\7fbb2566fe0c2966ec4cdb96b276a535ecd6d152
+K
+src/step13/step13_1427.java,1\8\1830ec5ebdd3ed3b399cdc24316204aa4b55ae35
+L
+src/step13/step13_11650.java,7\e\7e545353d5d21b9dabbcc42bc3eb6390260a899d
