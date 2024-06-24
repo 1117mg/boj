@@ -16,7 +16,7 @@ public class _2693 {
             int[] arr=new int[10];
             StringTokenizer st=new StringTokenizer(br.readLine());
             for(int j=0;j<10;j++){
-                arr[j] = Integer.parseInt(st.nextToken());
+                arr[j]=Integer.parseInt(st.nextToken());
             }
             Arrays.sort(arr);
             sb.append(arr[7]+"\n");     //3번째로 큰수
