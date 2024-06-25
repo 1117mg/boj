@@ -535,3 +535,13 @@ U
 %src/baekjoon_roadmap/part1/_2609.java,6\7\6754ff5f8e22fa9f62601121a32ad68535286926
 U
 %src/baekjoon_roadmap/part1/_2693.java,5\d\5dcfdd9b8778ccc0faecdfef3798c5519da26c66
+U
+%src/baekjoon_roadmap/part1/_1292.java,3\b\3bc9dad8ee1a54a2f08d120bfe6c706e327c3010
+U
+%src/baekjoon_roadmap/part1/_2581.java,2\d\2d38835afce2559ae8d52651d1ecc4e861e2dc85
+V
+&src/baekjoon_roadmap/part2/_14888.java,3\1\31340cec7938b42b7161187764252db68a373b2f
+U
+%src/baekjoon_roadmap/part2/_2504.java,0\c\0c7d37edc402267ef72ae00ff4a42c3501e33990
+V
+&src/baekjoon_roadmap/part2/_14719.java,1\c\1cbfdb188846931f426d4d7a753bd34dce0839ad
