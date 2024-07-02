@@ -551,3 +551,5 @@ U
 %src/baekjoon_roadmap/part2/_1700.java,a\f\af2b4769d2fab59091cc22a67dcc4073ab55b5b3
 U
 %src/baekjoon_roadmap/part2/_1806.java,1\8\18330703ebe313a9c5ed6369438364f5557bf4da
+U
+%src/baekjoon_roadmap/part2/_1916.java,f\b\fb388844a86352d0679641d4d751955210f42ee7
