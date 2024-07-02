@@ -16,6 +16,7 @@ public class _16916 {
 
     }
 
+    // KMP 알고리즘
     static int KMP(String parent, String pattern) {
         int[] table = makeTable(pattern);
         int n1 = parent.length();
