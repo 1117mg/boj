@@ -563,3 +563,7 @@ U
 %src/baekjoon_roadmap/part3/_3085.java,e\e\ee48c604c3d16a174657047f704b0c590c5bd7fa
 U
 %src/baekjoon_roadmap/part3/_2293.java,7\a\7ad0a26ceda794d2a3913d934341884ce446aa0e
+F
+src/prac/practice.java,2\8\28a7f3d5a7371e58e6ef2a12517dbb770bb45397
+U
+%src/baekjoon_roadmap/part3/_2294.java,1\4\147673454fd5d34f71f2843900af92f80367c643
