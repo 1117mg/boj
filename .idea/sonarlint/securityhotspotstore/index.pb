@@ -567,3 +567,11 @@ F
 src/prac/practice.java,2\8\28a7f3d5a7371e58e6ef2a12517dbb770bb45397
 U
 %src/baekjoon_roadmap/part3/_2294.java,1\4\147673454fd5d34f71f2843900af92f80367c643
+B
+src/etc/_1024.java,a\b\abdbe27f2ad9f2a7b5606304a36dc2d316392855
+B
+src/etc/_1004.java,e\1\e17bf494e355e2b8e5029583ee8078f83a4d3813
+B
+src/etc/_1009.java,2\9\29d393860ebab99555022e69205c56ea55a404d9
+B
+src/etc/_1016.java,1\2\1299f27d145b461b8a5580caed5f0b3bb9131986
