@@ -42,7 +42,7 @@ public class _1025 {
                             if (Math.abs(Math.sqrt(t) - (int)Math.sqrt(t)) < 1e-10){ // 완전 제곱수인지 판별
                                 result = Math.max(result, t);
                             }
-                            newI += mi; /
+                            newI += mi;
                             newJ += mj;
                         }
 
