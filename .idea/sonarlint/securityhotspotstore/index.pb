@@ -585,3 +585,5 @@ B
 src/etc/_1025.java,b\f\bf6ef47d81d980e36539fea4552d7d0eccbb59fa
 B
 src/etc/_1026.java,f\4\f4905ee328bbd011af2b094a6a0fd9efd15b54e7
+B
+src/etc/_1027.java,f\0\f0adb710877cee2207f51157cab812622ba59aaf
